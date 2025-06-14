@@ -1,0 +1,167 @@
+
+
+.nav-link:hover {
+  color: rgb(255, 251, 0);
+  font-size: 19px;
+}
+
+.nav-link{
+  font-optical-sizing: auto;
+  font-weight: 5;
+  font-style: normal;
+  transition: 0.5s;
+  font-size: 18px;
+  color: rgb(0, 0, 0);
+}
+.navbar-item{
+  width: 300px;
+  margin-left: -200px;
+  border-radius: 50px;
+}
+.nav-link:hover{
+  transition: 0.5s;
+  font-size: 19px;
+  font-family: "sans";
+  font-optical-sizing: auto;
+  color : rgb(255, 251, 0);
+}
+.button1{
+	width: 150px;
+	height: 40px;
+	border: 20px;
+	text-transform: capitalize;	
+	background: linear-gradient(to right, yellow,#fff);
+}
+
+
+img.slider-height{
+	height: 700px;
+	background-size: cover;
+	
+}
+h2.title{
+    color: #000;
+	font-size: 50px;
+
+}
+.description{
+    color: black;
+    font-size: 40px;
+}
+
+.carousel-caption{
+	text-align:left;
+	margin-bottom: 110px;
+}
+
+  
+.carousel-inner1 {
+    max-width: 700px; /* Set the width of the slideshow */
+    margin: 0 auto; /* Center the slideshow */
+}
+
+
+.word{
+	font-size: 20px;
+	color: #fff;
+}
+.footer-description{
+	text-justify: center;
+}
+.paragraph{
+	color:white;
+	border-right: 10px;
+	margin-left: 1000px;
+	
+
+}
+.paragraph1{
+	border-right: 10px;
+	margin-right: 1000px;
+	color: white;
+}
+
+.card {
+    margin: 15px; /* Spacing between cards */
+    border: none; /* Remove border */
+    border-radius: 15px; /* Rounded corners */
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1); /* Optional box shadow */
+    transition: transform 0.3s ease-in-out;
+  }
+  .card:hover {
+    transform: translateY(-5px); /* Slight lift on hover */
+  }
+  .card img {
+    border-top-left-radius: 15px; /* Rounded corners for top image */
+    border-top-right-radius: 15px;
+  }
+  .card-title {
+    font-weight: bold;
+  }
+  .btn-custom {
+    background-color: #007bff;
+    color: #fff;
+  }
+
+.Slider{
+    border: 2px solid #000;
+    width: 100%;
+    height: 650px;
+    margin-bottom: 500px;
+    position: absolute;
+    left: 0;
+    right: 0;
+    background-image: url('https://images6.alphacoders.com/372/372198.jpg');
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    opacity: 1;
+    float: left;
+}
+.book-now-section {
+  position: absolute;
+  bottom: 20px;
+  left: 50%;
+  transform: translateX(-50%);
+  text-align: center;
+  color: #fff;
+  background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+  padding: 20px;
+  border-radius: 5px;
+}
+.btn-book-now {
+  background-color: #ff5722;
+  border: none;
+  color: #fff;
+  padding: 10px 20px;
+  border-radius: 5px;
+  text-decoration: none;
+}
+.btn-book-now:hover {
+  background-color: #e64a19;
+}
+ul{
+	display: inline;
+}
+ul li{
+	display: inline-block;
+	color: white;
+}
+.footer
+{
+  margin-top: 650px;
+}
+.footer h5 {
+  color: #ffc107;
+}
+
+.footer a.btn-social {
+  margin: 5px;
+  color: #fff;
+}
+
+.footer a.btn-social:hover {
+  color: #ffc107;
+}
+	
+
